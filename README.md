@@ -11,7 +11,7 @@ Note: The given notebook was coded on Google Colab.
    
 3. Install the packages:
    <br>Python, numpy, pandas, matplotlib, shapely, geopandas, copy.
-   <br>Note: One can remove 'import os' and 'from pathlib import Path' from the 1st cell, unless necessary.
+   <br>Note: One can remove 'import os' and 'from pathlib import Path' from the 1st cell of the notebook, unless necessary.
 
 5. Change path in code.
     <br>The given notebook was written on Google colab, hence, the paths of shapefile and clustering data should be accordingly editted.
